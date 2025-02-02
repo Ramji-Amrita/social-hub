@@ -1,2 +1,1 @@
-# social-hub
-Social hub
+# coding-project-template
